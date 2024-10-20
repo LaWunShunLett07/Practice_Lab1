@@ -1,1 +1,1 @@
-print("DevOps is practicing")
+print("I wanna know, What is love??")
